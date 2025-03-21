@@ -1,0 +1,39 @@
+article {
+    min-width: px;
+    max-width: vw;
+    border: solid 1px black;
+    padding: 10px;
+}
+
+article > img {
+    
+}
+
+h1 {
+
+}
+
+h2 {
+    
+}
+
+.kassa {
+    min-width: px;
+    max-width: vw;
+    min-height: px;
+    max-height: vw;
+    border: solid 1px black;
+    padding: 10px;
+    align-items: center;
+}
+
+.choose {
+    min-width: px;
+    max-width: vw;
+    min-height: px;
+    max-height: vw;
+    border: solid 1px black;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-items: center;
+}
